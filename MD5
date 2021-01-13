@@ -1,0 +1,17 @@
+87c5d3ce9deabc24731affd27d210662 *DESCRIPTION
+985a297220dc9c17ae60a926b38b10e9 *NAMESPACE
+97364452e30ffc03f92b58ba216cf97b *R/ar1nv.R
+b4b92b358682127824c39dfde677e212 *R/mwc.R
+695efe7e19b2fb6c9979188f3a373594 *R/n.check.data.R
+5725febc3d75ba4e7aac65c70bda2018 *R/plot.vectorwavelet.R
+bbb4792ebde7358c6fef9819d1e71c06 *R/qmwc.R
+080cdd14b1087dd462f2e1657c99badb *R/vectorwavelet-package.R
+671d29a128a8a8d2f6570ba00fa3dd56 *R/vwc.R
+d99c254894e0dc65b57821e6d14d44f7 *man/ar1nv.Rd
+ebf67e557f37d7a7744623ad4c91c31d *man/mwc.Rd
+82fa110f1103252e2ab3d4ba52f9309d *man/n.check.data.Rd
+4406ac5e3c3ee34279aeac754513f280 *man/n.check.datum.Rd
+e181f97654fbd949b318fabc35066dc6 *man/plot.vectorwavelet.Rd
+68867867ec9d31dfb5dc57b275f591c6 *man/qmwc.Rd
+0f3d219a716e5105d0701159b851a4fe *man/vectorwavelet-package.Rd
+e80b37dfa7eeb030c2efe9abeb41ec2a *man/vwc.Rd
